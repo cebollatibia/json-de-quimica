@@ -1,0 +1,18 @@
+[
+    {
+        "nombre":"Energia de Ionizacion",
+        "informacion":"se define como la energía necesaria para ionizar un átomo en estado gaseoso. En palabras más simples la energía necesaria para sustraer un electrón de valencia (electrones de la última capa). Aumenta y disminuye al contrario del radio atómico. Como es lógico al aumentar el tamaño es más fácil sustraer un electrón del átomo."
+    },
+    {
+        "nombre": "Afinidad electronica",
+        "informacion":"la afinidad electronica mide la facilidad con la que un atomo gana electrones. Por norma general aumenta a lo largo de un período y disminuye según se desciende en un grupo."
+    },
+    {
+        "nombre": "radio atomico",
+        "informacion":"Es la distancia media de un enlace entre átomos iguales. Cuantas más capas tenga el átomo mayor su radio, tiene su lógica al agregar más capas mayor radio abarca el átomo. Por otro lado disminuye de izquierda a derecha a lo largo de un período de elementos. Esto se debe al efecto apantallamiento es menor en la última capa."
+    },  
+    {
+        "nombre": "electronegatividad",
+        "informacion":"Es una medida de la capacidad de un átomo para atraer electrones. La electronegatividad aumenta a lo largo de un período y disminuye según se desciende en un grupo. Por tanto, los elementos más electronegativos están situados en la parte superior derecha de la tabla periódica."
+    }
+]
